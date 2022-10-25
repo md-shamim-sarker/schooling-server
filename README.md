@@ -1,4 +1,4 @@
-# Serve name: Schooling.com server
+# Server name: Schooling.com server
 
 ## All courses
 - https://schooling-server.vercel.app/courses
