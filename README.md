@@ -7,6 +7,14 @@
 - https://schooling-server.vercel.app/course/id/{id}
 - https://schooling-server.vercel.app/course/id/63578757df9e8cfcb2899f08
 
+## Find course by title
+- https://schooling-server.vercel.app/checkout/title/{title}
+- https://schooling-server.vercel.app/checkout/title/Play With HTML & CSS
+
+## Find course for checkout by id
+- https://schooling-server.vercel.app/checkout/id/{id}
+- https://schooling-server.vercel.app/checkout/id/6357875740638de73c92e4ac
+
 ## Example of one result
 ```json
 [
