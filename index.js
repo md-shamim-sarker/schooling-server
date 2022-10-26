@@ -24,6 +24,13 @@ app.get("/course/id/:id", (req, res) => {
     res.send(course);
 });
 
+// find course by title
+app.get("/checkout/title/:title", (req, res) => {
+    const title = req.params.title;
+    const course = data.find(course => course.title === title) || {};
+    res.send(course);
+});
+
 // listening app
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
