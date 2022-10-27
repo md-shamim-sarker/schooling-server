@@ -1,5 +1,17 @@
-# Server name: Schooling.com server
+# Server name:
+## Schooling.com server
 
+# Features of this server project
+- Show all courses endpoint
+- Find course by id endpoint
+- Find course by title endpoint
+
+# Used technologies, framework and libraries
+1. Nodejs
+2. Express.js (Framework)
+3. Vercel CLI
+
+# All Endpoints
 ## All courses
 - https://schooling-server.vercel.app/courses
 
@@ -9,7 +21,7 @@
 
 ## Find course by title
 - https://schooling-server.vercel.app/checkout/title/{title}
-- https://schooling-server.vercel.app/checkout/title/Play With HTML & CSS
+- https://schooling-server.vercel.app/checkout/title/HTML & CSS
 
 ## Find course for checkout by id
 - https://schooling-server.vercel.app/checkout/id/{id}
@@ -25,7 +37,7 @@
             "thumbnail": "https://i.ibb.co/G96Sfpf/bootstrap-thumbnail.png",
             "banner": "https://i.ibb.co/XYYfhnp/bootstrap-banner.jpg"
         },
-        "title": "Play With Bootstrap",
+        "title": "Bootstrap",
         "brief": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.",
         "details": "Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages (as opposed to web apps). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project. As such, the primary factor is whether the developers in charge find those choices to their liking. Once added to a project, Bootstrap provides basic style definitions for all HTML elements. The result is a uniform appearance for prose, tables and form elements across web browsers. In addition, developers can take advantage of CSS classes defined in Bootstrap to further customize the appearance of their contents. For example, Bootstrap has provisioned for light- and dark-colored tables, page headings, more prominent pull quotes, and text with a highlight.",
         "stars": "4.1",
