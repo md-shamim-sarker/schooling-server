@@ -43,6 +43,7 @@
         "stars": "4.1",
         "ratings": 8438,
         "likes": 98,
+        "price": 83,
         "enrolled": 471,
         "features": [
             "Flexible deadlines: Reset deadlines in accordance to your schedule.",
@@ -55,6 +56,6 @@
             "ins_name": "Adjivon Marieb",
             "ins_image": "https://i.ibb.co/xXnxmCF/adjivon-marieb-teacher.jpg"
         }
-    }
+    },
 ]
 ```
